@@ -79,9 +79,9 @@ Ele correndo desesperadamente, desda cena anterior, ou seja, da estação, não 
 	- A perda, algo que não podemos transferir, algo de fora para 
 	  dentro, e quando ela entra, o vilão se torna o tempo. 
 	  Só passamos pelo caos para entender o que se tem que ser 
-	  e o que se tem que mudar, mas se ao que se foi é preciso 
+	  e o que temos que mudar, mas se ao que se foi é preciso 
 	  homenagear, então que ele venha lhe dizer: 
-	  "Que a maior homenagem, É continuar a viver"
+	  "Que a maior homenagem, é continuar a viver"
 
 
 FIM 
