@@ -4,9 +4,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 1. EXT. PRAÇA - MANHÃ  
 
@@ -41,37 +38,37 @@
 
 	Assim que o nome sai de cena, uma voz, começa a declamar o texto: 
       
-	** *NARRADOR***
+	***NARRADOR***
 	> O TEMPO…      
-	> Algo que parece ser verdadeiro,      
-	> que sentimos na pele    
-    > que vemos num relógio,      
-    > num sino de uma igreja,    
-    > no céu,    
-    > no SOL  
+ 	  Algo que parece ser verdadeiro,      
+	  que sentimos na pele    
+    	  que vemos num relógio,      
+    	  num sino de uma igreja,    
+    	  no céu,    
+    	  no SOL  
 
 	<br />
 
 3. INT. COZINHA - MANHÃ
-
+	
 	Continua o texto que começou na cena anterior, e essa cena acontece inteira em background do restante da declamação.
 
-	** *NARRADOR***
-     > As vezes se mostra TÃO relativo.   
-     > O que sera que acontece quando   
-     > não estamos AQUI,   
-     > nessa dimensão?    
-     > Nesse mundo?   
-     > O que acontece   
-     > quando nos sentimos COMPLEXOS?     
-     > Um banho rápido, demora horas,     
-     > Longas férias que parecem DIAS,     
-     > Feriados que nem se vê passar,   
-     > Buscar um café,   
-     > parece ser uma profunda tentativa de busca de nós dentro de nós, em um CAFÉ.   
-     > Para onde vai nosso corpo quando algo falta e nos permitimos pensar na vida?   
-     > Nos permitimos chorar.   
-     > A história da nossa vida, parece feita de tentativas consecutivas da busca por um **Por do Sol**.
+	***NARRADOR***   
+     	> As vezes se mostra TÃO relativo.   
+       	  O que sera que acontece quando   
+     	  não estamos AQUI,   
+     	  nessa dimensão?    
+     	  Nesse mundo?   
+	  O que acontece   
+	  quando nos sentimos COMPLEXOS?     
+	  Um banho rápido, demora horas,     
+	  Longas férias que parecem DIAS,     
+	  Feriados que nem se vê passar,   
+	  Buscar um café,    
+	  parece ser uma profunda tentativa de busca de nós dentro de nós, em um CAFÉ.   	
+	  Para onde vai nosso corpo quando algo falta e nos permitimos pensar na vida?   
+	  Nos permitimos chorar.   
+	  A história da nossa vida, parece feita de tentativas consecutivas da busca por um **Por do Sol**.
 
 	Em uma cozinha, pequena, no formato de um corredor, da porta vemos de um lado da cozinha a parede, no outro, temos a pia, uma geladeira, e o final o armário que começa passando por cima da pia e da geladeira. 
 	
@@ -108,25 +105,25 @@
 	
 	O texto a seguir é declamado enquanto a câmera tem **ELE** em closer, pode haver uma brincadeira com o foco aqui, horas nele oras na estação atras:
 	
-	** *NARRADOR***
+	***NARRADOR***
 	> Aquilo das lendas, dos livros que li e que nunca acreditei   
-	> existir, das histórias fantásticas contadas de pessoa pra pessoa   
-	> Do dito daqueles que antes me rodeavam com frases de efeito   
-	> e clichês confusos   
-	> Daqueles que não se reconheceram mais diante daquilo que estava   
-	> claro demais  
-	> Daquela dor dramática as vezes exagerada e as vezes fofa   
-	> Da verdade existente em sentimentos sinceros   
-	> Da alegria de observar de perto aquilo que nunca deveria   
-	> ter se afastado   
-	> Do cuidado necessário com a frágil porcelana cravada no peito   
-	> Das lagrimas salgadas que um dia escorreram    
-	> Da distância afiada e pontiaguda que existe entre nós   
-	> Do provável e tão aguardado reencontro   
-	> Da falta que me fazes   
-	> Do amor que sinto por ti  
-	> 
-	> *(Trecho da música Don't Give Up do Daniel Peixoto)*
+	  existir, das histórias fantásticas contadas de pessoa pra pessoa   
+	  Do dito daqueles que antes me rodeavam com frases de efeito   
+	  e clichês confusos   
+	  Daqueles que não se reconheceram mais diante daquilo que estava   
+	  claro demais  
+	  Daquela dor dramática as vezes exagerada e as vezes fofa   
+	  Da verdade existente em sentimentos sinceros   
+	  Da alegria de observar de perto aquilo que nunca deveria   
+	  ter se afastado   
+	  Do cuidado necessário com a frágil porcelana cravada no peito   
+	  Das lagrimas salgadas que um dia escorreram    
+	  Da distância afiada e pontiaguda que existe entre nós   
+	  Do provável e tão aguardado reencontro   
+	  Da falta que me fazes   
+	  Do amor que sinto por ti  
+	 
+	  *(Trecho da música Don't Give Up do Daniel Peixoto)*
   	
   	<br />
 	Quando a declamação chegar em '*Da falta que me fazes*' tudo muda, Parece que tudo cena ganha seu brilho, as cores estão mais viva e **ELE** parece agora com alguma certeza.
@@ -148,16 +145,16 @@
 	 Então inicia-se o por do sol, o texto a seguir começa enquanto tudo vai escurecendo e virando noite.
 
 	> A perda, algo que não podemos transferir,      
-	> algo de fora para dentro,    
-	> e quando ela entra,   
-	> o vilão se torna o tempo.    
-	> Só passamos pelo caos para entender   
-	> o que se tem que ser    
-	> e o que temos que mudar,    
-	> mas se ao que se foi é preciso homenagear,     
-	> então que ele venha lhe dizer:    
-	> "Que a maior homenagem,   
-	> É continuar a viver"   
+	  algo de fora para dentro,    
+	  e quando ela entra,   
+	  o vilão se torna o tempo.    
+	  Só passamos pelo caos para entender   
+	  o que se tem que ser    
+	  e o que temos que mudar,    
+	  mas se ao que se foi é preciso homenagear,     
+	  então que ele venha lhe dizer:    
+	  "Que a maior homenagem,   
+	  É continuar a viver"   
 
 
 *FIM*
