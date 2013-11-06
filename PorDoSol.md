@@ -53,8 +53,8 @@
 	
 	Continua o texto que começou na cena anterior, e essa cena acontece inteira em background do restante da declamação.
 
-	***NARRADOR***   
-     	> As vezes se mostra TÃO relativo.   
+	***NARRADOR***
+	> As vezes se mostra TÃO relativo.   
        	  O que sera que acontece quando   
      	  não estamos AQUI,   
      	  nessa dimensão?    
